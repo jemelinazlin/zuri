@@ -94,7 +94,7 @@ const Home = () => {
           />
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="text-white text-5xl font-extrabold bg-black bg-opacity-50 px-6 py-4 rounded-lg shadow-md">
-              Welcome To Tisap
+              Welcome To Zuri Trends
             </div>
           </div>
         </div>
@@ -174,7 +174,7 @@ const Home = () => {
                 <i className="fab fa-linkedin"></i>
               </a>
             </div>
-            <p className="text-gray-400">© 2025 Tisap Threads. All rights reserved.</p>
+            <p className="text-gray-400">© 2025 zuri trends. All rights reserved.</p>
           </div>
         </footer>
       </div>
