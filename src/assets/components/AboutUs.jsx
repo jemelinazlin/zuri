@@ -13,10 +13,10 @@ const About = () => {
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
           <div className="text-center text-white px-6 sm:px-12">
             <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight mb-4 text-shadow-lg">
-              Discover the Story Behind Tisap Threads
+              Discover the Story Behind Zuri Trends
             </h1>
             <p className="text-lg sm:text-xl font-light mb-6 opacity-90">
-              More than just fashion, Tisap Threads is a celebration of self-expression, confidence, and timeless style. Our mission is to bring you the latest trends while maintaining a focus on quality and sustainability.
+              More than just fashion, Zuri Trends is a celebration of self-expression, confidence, and timeless style. Our mission is to bring you the latest trends while maintaining a focus on quality and sustainability.
             </p>
             <a
               href="#about-us"
@@ -33,7 +33,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto text-center mb-16">
           <h2 className="text-3xl font-semibold text-gray-800 mb-4">Our Story</h2>
           <p className="text-lg text-gray-500">
-            At Tisap Threads, we believe that fashion is more than just clothing — it’s about self-expression, confidence, and quality. Founded with the mission of bringing the latest trends to your wardrobe at affordable prices, our journey has been one of passion, dedication, and customer-first focus.
+            At Zuri Trends, we believe that fashion is more than just clothing — it’s about self-expression, confidence, and quality. Founded with the mission of bringing the latest trends to your wardrobe at affordable prices, our journey has been one of passion, dedication, and customer-first focus.
           </p>
         </div>
 
@@ -61,7 +61,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto text-center mb-16">
           <h2 className="text-3xl font-semibold text-gray-800 mb-4">Meet Our Team</h2>
           <p className="text-lg text-gray-500">
-            The heart of Tisap Threads lies in the passionate and dedicated team behind the scenes. From our fashion designers to our customer service team, we’re all here to make your shopping experience extraordinary.
+            The heart of Zuri Trends lies in the passionate and dedicated team behind the scenes. From our fashion designers to our customer service team, we’re all here to make your shopping experience extraordinary.
           </p>
         </div>
 
