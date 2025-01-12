@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <h4 className="text-2xl font-semibold mb-4">About Us</h4>
             <p className="text-gray-400">
-              Tisap Threads offers the latest fashion trends with unbeatable quality. Shop a wide selection of apparel
+              Zuri Trends offers the latest fashion trends with unbeatable quality. Shop a wide selection of apparel
               for men and women. We pride ourselves on delivering excellence and customer satisfaction.
             </p>
           </div>
@@ -33,7 +33,7 @@ const Footer = () => {
               123 Fashion St, City Center, Country, Zip Code
             </p>
             <p className="text-gray-400">
-              Email: <a href="mailto:support@tisapthreads.com" className="text-blue-500">support@tisapthreads.com</a>
+              Email: <a href="mailto:support@tisapthreads.com" className="text-blue-500">support@zuritrends.com</a>
             </p>
             <p className="text-gray-400">
               Phone: <a href="tel:+1234567890" className="text-blue-500">+123 456 7890</a>
@@ -80,7 +80,7 @@ const Footer = () => {
 
         {/* Footer Bottom - Copyright */}
         <div className="text-gray-400 mt-6">
-          <p>&copy; 2025 Tisap Threads. All rights reserved.</p>
+          <p>&copy; 2025 Zuri Trends. All rights reserved.</p>
         </div>
       </div>
     </div>
