@@ -55,7 +55,7 @@ const Contact = () => {
               <i className="fas fa-envelope text-2xl text-indigo-600 mr-4"></i>
               <div>
                 <h5 className="font-semibold text-xl">Email Address</h5>
-                <p className="text-lg">support@tisapthreads.com</p>
+                <p className="text-lg">support@zuritrends.com</p>
               </div>
             </div>
           </div>
